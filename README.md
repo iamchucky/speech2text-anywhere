@@ -2,7 +2,7 @@
 Wouldn't it be nice to bring Google's [webkitSpeechRecognition](https://www.google.com/intl/en/chrome/demos/speech.html) to be used in anywhere in Windows? Word? notepad?
 
 # How it works?
-Chrome Apps + Native Messaging + webkitSpeechRecognition + Ctrl+V + :heart:
+webkitSpeechRecognition + Chrome Apps + Native Messaging + Ctrl+V + :heart:
 
 # How to install
 - Download this project as zip and unzip it.
