@@ -6,6 +6,7 @@ webkitSpeechRecognition + Chrome Apps + Native Messaging + Ctrl+V + :heart:
 
 # How to install
 - Download this project as zip and unzip it.
+- Download and install [Visual C++ Redistributable for Visual Studio 2015] (https://www.microsoft.com/en-us/download/details.aspx?id=48145)
 - Go to chrome://extensions, and load unpacked extensions with the unzipped folder.
 - Run the install_host.bat from the unzipped folder.
 - That's it!
